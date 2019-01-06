@@ -36,6 +36,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binance.WebSocket.WebSocket
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binance.WebSocket.WebSocket4Net", "samples\Binance.WebSocket.WebSocket4Net\Binance.WebSocket.WebSocket4Net.csproj", "{67C1BE38-527F-424D-85A6-DFD8117E21D1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binance.AutoTrader", "Binance.AutoTrader\Binance.AutoTrader.csproj", "{7E91568E-F9E5-4823-8BBF-8CBE4586E88A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{67C1BE38-527F-424D-85A6-DFD8117E21D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67C1BE38-527F-424D-85A6-DFD8117E21D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67C1BE38-527F-424D-85A6-DFD8117E21D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E91568E-F9E5-4823-8BBF-8CBE4586E88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E91568E-F9E5-4823-8BBF-8CBE4586E88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E91568E-F9E5-4823-8BBF-8CBE4586E88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E91568E-F9E5-4823-8BBF-8CBE4586E88A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
